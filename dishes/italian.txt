@@ -1,0 +1,335 @@
+italian
+italianfood
+italy
+pasta
+pizza
+Acquacotta
+Agghiotta di lumache
+Agliata
+Agrodolce
+Bagna càuda
+Capra e fagioli
+Cioppino
+Garmugia
+Ginestrata
+Grine sauce
+Maccu
+Sugo al Pomodoro
+Minestra di ceci
+Minestra di pasta con pesce
+Minestrone
+Pasta e fagioli
+Ragù alla bolognese
+Ragù alla napoletana
+Ragù alla salsiccia
+Ragù
+Risi e bisi
+Sciusceddu
+Stracciatella
+Boreto
+Fonduta
+Minestra di fagioli
+Pesto
+Bari
+Bozza pratese
+Casatiello
+Ciabatta
+Ciaccino
+Ciriola
+Colomba Pasquale
+Coppia Ferrarese
+Cornetto
+Crescentina
+Crocchè
+Farinata
+Ficattola
+Focaccia
+Fragguno
+Grissini torinesi
+Michetta
+Moddizzosu
+Muffuletta
+Neccio
+Pandoro
+Pane carasau
+Pane casareccio
+Pane di Altamura
+Pane di Genzano
+Pane pugliese
+Pane di Laterza
+Pane rustico
+Pane toscano
+Panelle di ceci
+Panettone
+Panino
+Penia
+Piadina
+Pita
+Rosetta
+Schiacciata
+Taralli
+Testarolo
+Tigella
+Tortano
+Agnolotti
+Bavette
+Bigoli
+Bucatini
+Cannelloni
+Crespelle
+Capellini
+Cappelletti
+Chitarra
+Conchiglie
+Ditalini
+Eliche
+Farfalle
+Festoni
+Fettuccine
+Filatieddi
+Fusilli
+Garganelli
+Gnocchi
+Gnocchi di semolino
+Lasagna
+Linguine
+Lumache
+Lasagnette
+Maccheroni
+Malloreddus
+Maltagliati
+Marille
+Marrubini
+Offelle
+Orecchiette
+Orzo
+Paccheri
+Paglia e fieno
+Pansotti
+Panzarotti
+Pappardelle
+Penne
+Perciatelli
+Pici
+Pinzillacchere
+Pizzoccher
+Ravioli
+Rigatoni
+Spaghetti
+Spaghetti alla chitarra
+Strozzapreti
+Strangozzi
+Strascinati
+Stelline
+Testaroli
+Tacconi
+Tagliatelle
+Tagliarini
+Tonnarelli
+Tortellini
+Trenette
+Trottole
+Trofie
+Vermicelli
+Ziti
+Bucatini all'Amatriciana
+Bucatini coi funghi
+Bucatini alla Sorrentina
+Cannelloni al ragù
+Cannelloni ai carciofi
+Carbonara
+Ciceri e Tria
+Fettuccine Alfredo
+Lasagne
+Linguini with clam sauce
+Pansotti alla genovese
+Pasta all'Ortolana
+Pasta al pesto
+Penne all'arrabbiata
+Ravioli
+Rigatoni con la Pajata
+rigatoni al forno con salsa aurora
+Spaghetti alla Carrettiera
+Spaghetti bolognese
+Spaghetti al nero di seppia
+spaghetti alla Puttanesca
+Spaghetti con la bottarga
+Spaghetti aglio e olio
+Spaghetti indiavolati
+Spaghetti Siracusani
+Spaghetti alla carbonara
+Tagliatelle alla boscaiola
+Tagliatelle ai carciofi
+Tagliatelle ai funghi
+Tagliatelle al pomodoro
+Tagliatelle al sugo di lepre
+Tagliatelle al ragù
+Tortelloni alla zucca
+Tortellini
+Cjarsons
+Tortelloni ricotta and spinach
+Trofie al pesto
+Trofie al sugo di noci
+Ziti
+Arancini
+Insalata di riso
+Pomodori col riso
+Risi e bisi
+Riso al nero di seppia
+Riso alla toscana
+Riso con i porcini
+Riso e indivia
+Riso tonnato
+Riso valdostano
+Risotto
+Risotto ai gamberoni
+Risotto ai quattro sapori
+Risotto al Barolo
+Risotto al cavolfiore
+Risotto al Gorgonzola
+Risotto alla marinara
+Risotto alla milanese
+Risotto alla sbirraglia
+Risotto alla zucca
+Risotto allo zafferano con petto d'anatra
+Risotto con agoni
+Risotto con la lüganega
+Risotto con scamorza e champagne
+Risotto di seppie alla veneziana
+Risotto indivia e fiori di zucca
+Risotto saltato
+Sformato al basilico
+Sformato di riso dolce
+Tiella di riso
+Patate e cozze
+Acciughe fritte in pastella
+Acciughe in carpione
+Acqua pazza
+Acquadella o latterino fritto
+Agghiotta di pesce spada
+Alici
+Sardine
+Anguilla marinate
+Anguilla marinata
+Baccalà
+Baccalà alla vicentina
+Baccalà fritto
+Boreto alla graisana
+Branzino al sale
+Brodetto di arselle
+Buridda
+Cacciucco
+Calamaretti fritti
+Calamari in zimino
+Calamari ripieni
+Capesante alla veneziana
+Cappon magro
+Carpaccio di pesce
+Cartoccio di pesce spada
+Cozze alla tarantina
+Cozze fritte alla viareggina
+Cozze ripiene
+Filetti di baccalà
+Filetti di orata al cartoccio
+Fritata di bianchetti
+Fritto misto di pesce
+Frittura mista di pesce
+Grancevola alla veneziana
+Impanata di pesce spada
+Involtini di pesce
+Missultin e polenta
+Moscardini lessati alla genovese
+Murena fritta
+Nasello al forno
+Orata arrosto
+Orate al forno
+Pepata di cozze
+Pesce a scabecciu
+Pesce al cartoccio
+Pesce alla pizzaiola
+Pesce spada alla siciliana
+Pesce spada arrosto in salmoriglio
+Polpettine di mare
+Sarde a beccafico
+Sarde arraganate
+Sarde grigliate
+Sarde ripiene
+Sarde sfiziose panate
+Sardele in saor
+Sbroscia bolsenese
+Scampi a zuppetta
+Scampi gratinati
+Seppie col nero alla veneziana
+Seppie con i piselli
+Seppie ripiene
+Seppioline in umido
+Sogliole alla mugnaia
+Spiedini ai frutti di mare
+Spiedini di alici
+Spiedini di anguilla
+Stoccafisso alla genovese
+Stoccafisso alla ligure
+Tonno sott'olio
+Tortiera di cozze
+Totano imbottito
+Triglie alla livornese
+Zuppa di pesce
+Abbacchio alla Cacciatora
+Abbacchio brodettato
+Bistecca Fiorentina
+Braciole
+Braciolone
+Bresaola
+Brodo
+Cacciatore
+Capicollo
+Carne al piatto
+Carne Pizzaiola
+Cevapcici
+Ciabusco
+Coda alla vaccinara
+Cotechino friulano
+Musèt
+Cotechino Modena
+Cotoletta alla milanese
+Cotoletta alla petroniana
+Fiorentina steak
+Culatello
+Goulash or gulash
+Guanciale
+Lonza
+Mortadella
+Oca
+Osso buco
+Pancetta
+Pezzetti di cavallo
+Porcaloca
+Prosciutto affumicato
+Prosciutto cotto
+Prosciutto crudo
+Prosciutto di Parma
+Prosciutto di San Daniele
+Rosticciana
+Scaloppine
+Salame
+Salsiccia 
+Saltimbocca alla Romana
+Soppressata
+Spezzatino
+Speck Alto Adige 
+Speck friulano di Sauris
+Straccetti
+Stigghiola
+Trippa alla Romana
+Veal Milanese
+Violino Valtell
+Vitello
+Asparagi bianchi e verdi
+Caponata
+Carciofi alla Romana
+Crauti
+Panzanella
+Peperonata
+Pestât
+Pinzimonio
+Fried eggplant

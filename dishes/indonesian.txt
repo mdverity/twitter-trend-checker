@@ -1,0 +1,448 @@
+Arsik
+
+Ayam bakar
+
+Ayam bumbu rujak
+
+Ayam goreng
+
+Ayam kalasan
+
+Ayam kecap
+
+Ayam percik
+
+Ayam taliwang
+
+Ayam tandoori
+
+Babi guling
+
+Babi kecap
+
+Babi panggang
+
+Bak kut teh
+
+Bakwan Malang
+
+Bakso
+
+Bakmi
+
+Bebek goreng
+
+Betutu
+
+Bistik jawa
+
+Botok
+
+Bubur ayam
+
+Bubur Manado (Tinutuan)
+
+Burgo
+
+Cakalang fufu
+
+Cap cai
+
+Char kway teow
+
+Daun ubi tumbuk
+
+Empal gentong
+
+Empal gepuk
+
+Fuyunghai
+
+Gado-gado
+
+Gudeg
+
+Gulai
+
+Ifu mie
+
+Iga penyet
+
+Ikan asin
+
+Ikan bakar
+
+Ikan goreng
+
+Karedok
+
+Ketupat
+
+Kari kambing
+
+Kepiting saus tiram
+
+Ketoprak
+
+Ketupat sayur
+
+Krechek
+
+Krengsengan
+
+Kwetiau ayam
+
+Kwetiau goreng
+
+Kwetiau siram sapi
+
+Laksa banjar
+
+Laksa bogor
+
+Laksa jakarta
+
+Lakso
+
+Lalap
+
+Lawar
+
+Lontong cap go meh
+
+Lontong sayur
+
+Mie aceh
+
+Mie ayam
+
+Mie cakalang
+
+Mie celor
+
+Mie goreng
+
+Mie kangkung
+
+Mie kering
+
+Mie kocok
+
+Mie koclok
+
+Mie rebus
+
+Mun tahu
+
+Naan
+
+Nasi bebek
+
+Nasi bogana
+
+Nasi campur (nasi rames)
+
+Nasi goreng
+
+Nasi gurih
+
+Nasi kebuli
+
+Nasi briyani
+
+Nasi kuning
+
+Nasi lemak
+
+Nasi liwet
+
+Nasi mandi
+
+Nasi minyak
+
+Nasi padang
+
+Nasi pecel
+
+Nasi tim
+
+Nasi timbel
+
+Nasi uduk
+
+Nasi ulam
+
+Oncom
+
+Opor ayam
+
+Pallubasa
+
+Paniki
+
+Papeda
+
+Pecel Lele
+
+Pempek
+
+Pepes
+
+Perkedel
+
+Perkedel Jagung
+
+Plecing kangkung
+
+Pindang
+
+Rabeg
+
+Rawon
+
+Rendang
+
+Rica-rica
+
+Roti canai
+
+Roti jala
+
+Roti pita
+
+Saksang
+
+Sambal goreng teri
+
+Sapo tahu
+
+Sate or satay
+
+Sate bandeng
+
+Sate lilit
+
+Sayur asem
+
+Sayur lodeh
+
+Sayur nganten
+
+Seblak
+
+Se'i
+
+Selat solo
+
+Semur
+
+Sop buntut
+
+Sop saudara
+
+Soto or sroto or coto
+
+Soto mie
+
+Swikee
+
+Tahu campur
+
+Tauge goreng
+
+Tekwan
+
+Telur pindang
+
+Tempe
+
+Sambal tempoyak
+
+Tempoyak ikan patin
+
+Tinorangsak
+
+Tinutuan or bubur manado
+
+Tongseng
+
+Tumis Kangkung
+
+Tumpang
+
+Tumpeng
+
+Woku
+
+Yusheng
+
+Arem-arem
+
+Asinan Betawi
+
+Bakcang
+
+Batagor
+
+Burasa
+
+Cimol
+
+Cireng
+
+Emping
+
+Idli
+
+Kembang Tahu
+
+Kerak Telor
+
+Kerupuk
+
+Krupuk kulit
+
+Lemang
+
+Lemper
+
+Lumpia semarang
+
+Martabak
+
+Martabak kubang
+
+Mendoan
+
+Otak-otak
+
+Panada
+
+Pastel
+
+Risoles
+
+Rujak
+
+Rujak cingur
+
+Rujak juhi
+
+Rujak shanghai
+
+Rujak soto
+
+Pangsit goreng
+
+Pempek
+
+Samosa
+
+Siomay
+
+Serabi/Surabi
+
+Tahu Aci & Tahu Pletok
+
+Tahu gejrot
+
+Tahu gunting
+
+Tahu sumedang
+
+Tempe bacem
+
+Tahu
+
+Uli bakar
+
+Angsle
+
+Bakpia pathok
+
+Brem (solid snack)
+
+Bubur candil
+
+Bubur kacang hijau
+
+Bubur ketan hitam
+
+Cendil
+
+Dadar gulung
+
+Dangke
+
+Dodol
+
+Es campur
+
+Geplak
+
+Getuk
+
+Kaasstengels
+
+Klappertaart
+
+Klepon
+
+Kolak
+
+Klepon
+
+Kue apem
+
+Kue bandung
+
+Kue cubit
+
+Kue kacang tanah
+
+Kue kembang goyang
+
+Kue keranjang
+
+Kue kochi
+
+Kue lidah kucing
+
+Kue pukis
+
+Kue putri salju
+
+Kue putu
+
+Lapis legit or spekuk
+
+Lupis
+
+Mochi
+
+Nagasari
+
+Nastar
+
+Ombus-ombus
+
+Onde-onde
+
+Pai ti
+
+Paklempung
+
+Pisang goreng
+
+Putu mayang
+
+Roti buaya
+
+Roti tissue
+
+Tape uli
+
+Terang bulan
+
+Wingko
+
